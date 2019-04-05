@@ -1,0 +1,6 @@
+*.bak
+*.TMP
+*.log
+.idea/
+.DS_Store
+__pycache__/
