@@ -1,8 +1,8 @@
 baby-steps-ubuntu-env_on_docker
 ====
 
-「Pythonで学ぶ強化学習」のスクリプト実行用環境のDockerfileです
-OS : Ubuntu 18.04
+「Pythonで学ぶ強化学習」のスクリプト実行用環境のDockerfileです.  
+OS : Ubuntu 18.04  
 
 ## Description
 
@@ -21,7 +21,7 @@ OS : Ubuntu 18.04
 ## Version
 latest : baby-steps-env:1.0
 
-1.0 &emsp; 2019/03/29 新規作成  
+1.0 &emsp; 2019/04/05 新規作成  
 
 ## Install
 
@@ -29,7 +29,7 @@ latest : baby-steps-env:1.0
 
 ### リポジトリをクローン
 ```git
-http://egrd2gr05vl.eg.jp.honda.com:3000/kazushi/baby-steps-env_on_docker.git
+https://github.com/kinziro/baby-steps-ubuntu-env_on_docker.git
 ```
 
 ## Usage
