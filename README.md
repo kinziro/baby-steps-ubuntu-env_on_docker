@@ -35,8 +35,7 @@ https://github.com/kinziro/baby-steps-ubuntu-env_on_docker.git
 ## Usage
 
 ### 設定
-1. Dockerfileの'PROXY_ID'と'PROXY_PASS'の「ooo」を自分のプロキシIDとパスワードに変更
-1. run.shの「'self-dir'」を自分のリポジトリを置いているディレクトリに変更
+1. run.shの「'localdir'」を自分のリポジトリを置いているディレクトリに変更
 
 ### コンテナ内のユーザー
 - user : developer
