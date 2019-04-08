@@ -42,18 +42,13 @@ https://github.com/kinziro/baby-steps-ubuntu-env_on_docker.git
 - password : P@ssw0rd
 
 ### ビルド
-```sh
-sh build.sh
+```build.sh
+$ sh build.sh
 ```
 
 ### コンテナ起動
-```sh
-sh run.sh
-```
-
-### コンテナ内bashで初期設定スクリプトを実行
-```sh
-sh startup.sh
+```run.sh
+$ sh run.sh
 ```
 
 ## Contribution
