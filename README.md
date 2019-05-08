@@ -29,7 +29,7 @@ latest : baby-steps-env:1.0
 
 ### リポジトリをクローン
 ```git
-https://github.com/kinziro/baby-steps-ubuntu-env_on_docker.git
+$ git clone https://github.com/kinziro/baby-steps-ubuntu-env_on_docker.git
 ```
 
 ## Usage
